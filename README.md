@@ -1,7 +1,6 @@
 # Ciao, sono Diego
 
 Studente di Scienze Informatiche all'Universita di Pisa.
-Mi piace la cybersecurity e vorrei specializzarmi in questo ambito.
 
 **Stack principale**
 - React, TypeScript, Node.js, Express
