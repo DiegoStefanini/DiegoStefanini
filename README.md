@@ -9,6 +9,7 @@ Computer Science student at the **University of Pisa**, interested in **cybersec
 | Course | Repo | PDF |
 |---|---|---|
 | Programmazione e Algoritmica | [prog-algo](https://github.com/DiegoStefanini/prog-algo) | [main.pdf](https://github.com/DiegoStefanini/prog-algo/blob/main/main.pdf) |
+| Analisi Matematica | [analisi](https://github.com/DiegoStefanini/analisi) | [main.pdf](https://github.com/DiegoStefanini/analisi/blob/main/dispense/main.pdf) |
 | Algebra Lineare | [algebralineare](https://github.com/DiegoStefanini/algebralineare) | [main.pdf](https://github.com/DiegoStefanini/algebralineare/blob/main/main.pdf) |
 | Laboratorio 1 | [laboratorio1](https://github.com/DiegoStefanini/laboratorio1) | [main.pdf](https://github.com/DiegoStefanini/laboratorio1/blob/main/main.pdf) |
 | Laboratorio 2 | [laboratorio2](https://github.com/DiegoStefanini/laboratorio2) | [dispensa.pdf](https://github.com/DiegoStefanini/laboratorio2/blob/main/dispensa.pdf) |
