@@ -1,8 +1,6 @@
 # Hi, I'm Diego 👋
 
-Computer Science student at the **University of Pisa**, interested in **cybersecurity** and systems.
-
-**Stack:** React · TypeScript · Node.js · Express · PostgreSQL · MySQL · Java · C · Git
+Computer Science student at the **University of Pisa**
 
 ## 📚 University notes (Italian, written in Typst)
 
