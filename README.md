@@ -12,7 +12,7 @@ Computer Science student at the **University of Pisa**
 | Algebra Lineare | [algebralineare](https://github.com/DiegoStefanini/algebralineare) | [main.pdf](https://github.com/DiegoStefanini/algebralineare/blob/main/main.pdf) | 🟡 In corso |
 | Laboratorio 2 | [laboratorio2](https://github.com/DiegoStefanini/laboratorio2) | [dispensa.pdf](https://github.com/DiegoStefanini/laboratorio2/blob/main/dispensa.pdf) | 🟡 In corso |
 | Architettura degli elaboratori e sistemi operativi | [aeso](https://github.com/DiegoStefanini/aeso) | [dispensa.pdf](https://github.com/DiegoStefanini/aeso/blob/main/dispensa.pdf) | 🟡 In corso |
-| Paradigmi di Programmazione | [programmazione](https://github.com/DiegoStefanini/programmazione) | [dispensa.pdf](https://github.com/DiegoStefanini/programmazione/blob/main/dispensa.pdf) | 🟡 In corso |
+| Paradigmi di Programmazione | [paradigmi-programmazione](https://github.com/DiegoStefanini/paradigmi-programmazione) | [dispensa.pdf](https://github.com/DiegoStefanini/paradigmi-programmazione/blob/main/dispensa.pdf) | 🟡 In corso |
 | Ricerca Operativa | [ricercaoperativa](https://github.com/DiegoStefanini/ricercaoperativa) | [dispensa.pdf](https://github.com/DiegoStefanini/ricercaoperativa/blob/main/dispensa.pdf) | 🟡 In corso |
 
 ## 📫 Contact
